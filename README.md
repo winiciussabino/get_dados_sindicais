@@ -1,5 +1,5 @@
 ## get_dados_sindicais
-Função utilizada para extrair, A partir de um CNPJ, dados da carta sindical obtidos no portal do MTE - Ministério do Trabalho.
+Função utilizada para extrair, a partir do CNPJ de um sindicato, dados da carta sindical obtidos no portal do MTE - Ministério do Trabalho.
 http://www3.mte.gov.br/sistemas/cnes/internet/reg_sindical_default.asp#
 
 ## Requisitos
@@ -12,12 +12,14 @@ Bibliotecas de python necessárias:
 
 
 
-## Installation
+## Instalação
 
 Instalar as bibliotecas:
 ```
 pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org -r requirements.txt
 ```
+
+
 
 ## Contribuidores<br>
 
