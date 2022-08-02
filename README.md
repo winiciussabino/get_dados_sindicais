@@ -19,8 +19,20 @@ Instalar as bibliotecas:
 pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org -r requirements.txt
 ```
 
+## Execução
+A partir de um arquivo de excel chamado sindicatos_cnpj.xlsx com duas colunas no seguinte formato:
 
+<table>
+  <tr>
+    <td align="center">
+          <b>Winicius Sabino</b>
+    </td>
+       <td align="center">
+          <b>Winicius Sabino</b>
+    </td>
 
+  </tr>
+</table>
 ## Contribuidores<br>
 
 <table>
