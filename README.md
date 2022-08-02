@@ -1,6 +1,7 @@
 ## get_dados_sindicais
 Função utilizada para extrair, a partir do CNPJ de um sindicato, dados da carta sindical obtidos no portal do MTE - Ministério do Trabalho.
 http://www3.mte.gov.br/sistemas/cnes/internet/reg_sindical_default.asp#
+![image](https://user-images.githubusercontent.com/78553616/182382566-334a9396-ca76-4e0d-a231-a8f96dbea16e.png)
 
 ## Requisitos
 
