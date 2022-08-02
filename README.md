@@ -9,7 +9,7 @@ python 3.9 ou superior
 Bibliotecas de python necessárias:
 * pandas
 * requests
-* selenium
+
 
 
 ## Installation
