@@ -21,7 +21,7 @@ pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org -r req
 ```
 
 ## Execução
-A partir de um arquivo de excel chamado sindicatos_cnpj.xlsx com duas colunas no seguinte formato:
+A partir de um arquivo de excel chamado <b>sindicatos_cnpj.xlsx</b> com duas colunas no seguinte formato:
 
 <table>
   <tr>
@@ -45,6 +45,14 @@ A partir de um arquivo de excel chamado sindicatos_cnpj.xlsx com duas colunas no
     <td align="center"> ... </td>
   </tr>
 </table>
+
+Executa-se o código com:
+
+```
+python get_dados_sindicais.py
+```
+
+Como saída é gerada uma tabela com o nome <b>lista_sindicatos.xlsx</b> contendo os dados da carta sindical.
 
 ## Contribuidores<br>
 
