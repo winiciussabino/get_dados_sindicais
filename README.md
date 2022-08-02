@@ -25,14 +25,26 @@ A partir de um arquivo de excel chamado sindicatos_cnpj.xlsx com duas colunas no
 <table>
   <tr>
     <td align="center">
-          <b>Winicius Sabino</b>
+          <b>nome</b>
     </td>
-       <td align="center">
-          <b>Winicius Sabino</b>
+    <td align="center">
+          <b>cnpj</b>
     </td>
-
+  </tr>
+   <tr>
+    <td align="center">
+          Sindicato das Indústrias da Alimentação de Cáceres
+    </td>
+    <td align="center">
+          24.753.535/0001-00
+    </td>
+  </tr>
+    <tr>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
   </tr>
 </table>
+
 ## Contribuidores<br>
 
 <table>
